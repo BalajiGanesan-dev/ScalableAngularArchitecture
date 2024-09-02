@@ -1,0 +1,7 @@
+.header-container{
+    height: inherit;
+}
+.domain-nav{
+    display: flex;
+    justify-content: space-around;
+}
